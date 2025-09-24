@@ -31,7 +31,7 @@ O sistema permite o **cadastro e gerenciamento de usuários, projetos e equipes*
 
 ## 🖥️ Ferramentas de Desenvolvimento
 <p align="center">
-  <img src="" alt="Ferramentas" width="400"/>
+  <img src="https://github.com/daniellezyzz/Projeto-Gest-o/blob/main/Imagens/Ferramentas%20Utilizadas.png" alt="Ferramentas" width="400"/>
 </p>
 
 ## 📋 Licença/License
