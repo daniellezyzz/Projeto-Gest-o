@@ -6,7 +6,7 @@
 
 # 🎓 - Projeto Gestão
 
-## 👥 Integrantes: <a href="https://www.linkedin.com/in/anie-bissoli/"> Anie Bissoli </a>, <a href="https://www.linkedin.com/in/danielle-de-lima-moraes-625688283/">Danielle Moraes</a>, <a href="https://www.linkedin.com/in/geovana-silva-445431250/">Geovana Silva </a>, <a>Gustavo Figueiredo </a> <a href="https://www.linkedin.com/in/lucas-azevedo-0a3092347/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Lucas Azevedo </a> e <a href="https://www.linkedin.com/in/suzan-paola-moraes-8701571b4/">Suzan Paola</a>
+## 👥 Integrantes: <a href="https://www.linkedin.com/in/anie-bissoli/"> Anie Bissoli </a>, <a href="https://www.linkedin.com/in/danielle-de-lima-moraes-625688283/">Danielle Moraes</a>, <a href="https://www.linkedin.com/in/geovana-silva-445431250/">Geovana Silva </a>, <a>Gustavo Figueiredo </a>, <a href="https://www.linkedin.com/in/lucas-azevedo-0a3092347/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Lucas Azevedo </a> e <a href="https://www.linkedin.com/in/suzan-paola-moraes-8701571b4/">Suzan Paola</a>
 
 ## 🎯 Objetivo  
 Este projeto foi desenvolvido para a disciplina **Programação de Soluções Computacionais (2025/02)** com o propósito de aplicar os fundamentos de **Programação Orientada a Objetos (POO)**.  
